@@ -18,7 +18,9 @@ public class TestaMenorPreco {
 			}			
 		}
 		System.out.println(maisBarato);
-		System.out.println("O preço mais barrato "+precos[maisBarato]);
+		System.out.println("O preço mais barrato " + precos[maisBarato]);
 	}
 
 }
+
+
