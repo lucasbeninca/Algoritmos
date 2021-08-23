@@ -2,9 +2,11 @@
  Revendo Algoritmos
  
  **Estrutura padrão**
-	-	Algoritmo "nomedoalgoritmo"
-	-   var 
-	-   inicio
-	-   Finalalgoritmo
+ 
+		 Algoritmo "nomedoalgoritmo"
+	  	 var //váriáveis aqui, seguidas de seu tipo
+		 inicio
+		 // seu código aqui
+		 Finalalgoritmo
 	
  
