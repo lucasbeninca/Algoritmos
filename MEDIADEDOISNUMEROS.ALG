@@ -11,6 +11,6 @@ escreval("escreva o segundo numero: ")
 leia(n2)
 
 media <- (n1 + n2) / 2
-escreval("a media dos dois numeros e: ", media)
+escreva("a media dos dois numeros e: ", media)
 
 fimalgoritmo
