@@ -1,6 +1,5 @@
 algoritmo "ConverteTemperatura"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 var
 graus,fahrenheit : real
 medida : inteiro
