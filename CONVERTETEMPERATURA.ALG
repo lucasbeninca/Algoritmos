@@ -13,7 +13,7 @@ se medida = 1 entao
       leia(graus)
       fahrenheit <- (graus * 1.8) + 32
       
-      escreval(graus, " graus celsios sao ",fahrenheit," fahrenheit")
+      escreval(graus:4:1, " graus celsios sao ",fahrenheit:4:1," fahrenheit")
 fimse
 
 se medida = 2 entao
@@ -21,7 +21,7 @@ se medida = 2 entao
    leia(fahrenheit)
    graus <- (fahrenheit - 32) / 1.8
    
-   escreval(fahrenheit, " graus fahrenheit sao " ,graus, " celcios")
+   escreval(fahrenheit:4:1, " graus fahrenheit sao " ,graus:4:1, " celcios")
 fimse
 
 fimalgoritmo
